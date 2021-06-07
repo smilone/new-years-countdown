@@ -1,1 +1,1 @@
-A day/hour/minute countdown for the 2019 Christmas season
+A day/hour/minute countdown for New Years Day
